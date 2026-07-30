@@ -1,0 +1,6 @@
+{
+  "name": "حاسبة السعرات والحرق",
+  "description": "تطبيق متكامل لحساب سعرات الطعام بدقة قبل وبعد الطبخ، حساب معدل الحرق BMR و TDEE، ونصائح التمارين لكل حمية غذائية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
